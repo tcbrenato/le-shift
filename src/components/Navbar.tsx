@@ -42,12 +42,12 @@ export default function Navbar() {
         <nav className="container-content flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2.5 group" aria-label="Accueil">
             <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-white font-bold text-sm transition-transform group-hover:scale-105">
-              R
+              LS
             </span>
             <span className="flex flex-col leading-none">
-              <span className="text-sm font-bold text-primary tracking-tight">RÉNATQ</span>
+              <span className="text-sm font-bold text-primary tracking-tight">LE SHIFT</span>
               <span className="text-[10px] font-medium text-primary/50 tracking-wide uppercase">
-                Rénato TCHOBO
+                Studio de solutions numériques
               </span>
             </span>
           </Link>

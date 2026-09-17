@@ -13,12 +13,12 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2.5 mb-5">
               <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-white text-primary font-bold text-sm">
-                R
+                LS
               </span>
-              <span className="text-sm font-bold tracking-tight">Rénato TCHOBO</span>
+              <span className="text-sm font-bold tracking-tight">Le Shift</span>
             </div>
             <p className="text-sm text-white/60 leading-relaxed mb-4">
-              Consultant en solutions numériques
+              Studio de solutions numériques
             </p>
             <p className="text-sm text-accent font-semibold italic">
               Concevoir. Analyser. Transformer.
@@ -113,13 +113,13 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="container-content py-6 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-xs text-white/40">
-            © 2026 Rénato TCHOBO. Tous droits réservés.
+            © 2026 Le Shift. Tous droits réservés.
           </p>
           <Link
             to="/contact"
             className="text-xs text-white/40 hover:text-accent transition-colors inline-flex items-center gap-1"
           >
-            Le Shift — Univers de services numériques
+            Un studio porté par Rénato TCHOBO
             <ArrowUpRight className="h-3 w-3" />
           </Link>
         </div>
